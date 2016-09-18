@@ -169,10 +169,10 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
-		<UseSystemVolume>false</UseSystemVolume>
+		<UseSystemVolume>true</UseSystemVolume>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -301,6 +301,7 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>true</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
@@ -331,6 +332,7 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>true</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
@@ -360,6 +362,7 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>false</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
@@ -389,16 +392,17 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>true</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>false</PlaysSound>
+		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath></SoundPath>
-		<SoundVolume>100</SoundVolume>
+		<SoundPath>tadupd01.wav</SoundPath>
+		<SoundVolume>0</SoundVolume>
 		<TopMost>true</TopMost>
 		<ContainsFlagship>true</ContainsFlagship>
 		<ContainsNotLockedShip>true</ContainsNotLockedShip>
@@ -426,16 +430,17 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>true</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>false</PlaysSound>
+		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath></SoundPath>
-		<SoundVolume>50</SoundVolume>
+		<SoundPath>poi.wav</SoundPath>
+		<SoundVolume>0</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierExpedition>
 	<NotifierRepair>
@@ -455,16 +460,17 @@ body {
 		<HasFormBorder>true</HasFormBorder>
 		<ImagePath></ImagePath>
 		<IsEnabled>true</IsEnabled>
+		<IsSilenced>false</IsSilenced>
 		<Location xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
 			<d3p1:x>0</d3p1:x>
 			<d3p1:y>0</d3p1:y>
 		</Location>
 		<LoopsSound>false</LoopsSound>
-		<PlaysSound>false</PlaysSound>
+		<PlaysSound>true</PlaysSound>
 		<ShowWithActivation>false</ShowWithActivation>
 		<ShowsDialog>true</ShowsDialog>
-		<SoundPath></SoundPath>
-		<SoundVolume>50</SoundVolume>
+		<SoundPath>poi.wav</SoundPath>
+		<SoundVolume>0</SoundVolume>
 		<TopMost>true</TopMost>
 	</NotifierRepair>
 	<UI>
@@ -514,8 +520,8 @@ body {
 			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
 		</SubFont>
 	</UI>
-	<Version>2.4.0.2</Version>
-	<VersionUpdateTime>2016/08/27 20:00:00</VersionUpdateTime>
+	<Version>2.4.1</Version>
+	<VersionUpdateTime>2016/09/18 15:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
