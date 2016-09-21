@@ -172,7 +172,7 @@
 		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
-		<UseSystemVolume>true</UseSystemVolume>
+		<UseSystemVolume>false</UseSystemVolume>
 	</Control>
 	<Debug>
 		<APIListPath></APIListPath>
@@ -410,7 +410,7 @@ body {
 		<LevelBorder>1</LevelBorder>
 		<NotifiesAfter>true</NotifiesAfter>
 		<NotifiesAtEndpoint>false</NotifiesAtEndpoint>
-		<NotifiesBefore>false</NotifiesBefore>
+		<NotifiesBefore>true</NotifiesBefore>
 		<NotifiesNow>true</NotifiesNow>
 	</NotifierDamage>
 	<NotifierExpedition>
