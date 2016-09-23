@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0</LastVolume>
 		<PowerEngagementForm>1</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -185,7 +185,7 @@
 		<ShowShipName>true</ShowShipName>
 	</FormArsenal>
 	<FormBattle>
-		<IsShortDamage>false</IsShortDamage>
+		<IsScrollable>false</IsScrollable>
 	</FormBattle>
 	<FormBrowser>
 		<AppliesStyleSheet>true</AppliesStyleSheet>
@@ -520,8 +520,8 @@ body {
 			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
 		</SubFont>
 	</UI>
-	<Version>2.4.1</Version>
-	<VersionUpdateTime>2016/09/18 15:00:00</VersionUpdateTime>
+	<Version>2.4.2</Version>
+	<VersionUpdateTime>2016/09/21 21:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
