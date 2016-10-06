@@ -677,7 +677,7 @@
 				<d4p1:SerializedList></d4p1:SerializedList>
 			</InclusionFilterSerializer>
 			<MembersSerializer xmlns:d4p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-				<d4p1:SerializedList>19715,18301,88,57,6628,16739,133,576,6697,336,137,260,682</d4p1:SerializedList>
+				<d4p1:SerializedList>88,57,16739,133,576,6697,336,137,260</d4p1:SerializedList>
 			</MembersSerializer>
 			<Name>入渠</Name>
 			<ScrollLockColumnCount>0</ScrollLockColumnCount>
