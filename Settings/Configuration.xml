@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0</LastVolume>
+		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>2</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -228,7 +228,7 @@ body {
 		<EquipmentLevelVisibility>Both</EquipmentLevelVisibility>
 		<FixShipNameWidth>false</FixShipNameWidth>
 		<IsScrollable>true</IsScrollable>
-		<SearchingAbilityMethod>1</SearchingAbilityMethod>
+		<SearchingAbilityMethod>3</SearchingAbilityMethod>
 		<ShortenHPBar>false</ShortenHPBar>
 		<ShowAircraft>true</ShowAircraft>
 		<ShowAnchorageRepairingTimer>false</ShowAnchorageRepairingTimer>
