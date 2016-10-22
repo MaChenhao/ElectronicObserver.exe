@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0</LastVolume>
 		<PowerEngagementForm>2</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -237,8 +237,9 @@ body {
 	</FormFleet>
 	<FormHeadquarters>
 		<BlinkAtMaximum>true</BlinkAtMaximum>
+		<DisplayUseItemID>68</DisplayUseItemID>
 		<Visibility xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>True,True,True,True,True,True,True,True,True,True,True,True,True,True</d3p1:SerializedList>
+			<d3p1:SerializedList>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True</d3p1:SerializedList>
 		</Visibility>
 	</FormHeadquarters>
 	<FormJson>
@@ -274,13 +275,15 @@ body {
 		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
 		<LayoutFilePath>Settings\WindowLayout.zip</LayoutFilePath>
-		<LockLayout>true</LockLayout>
+		<LockLayout>false</LockLayout>
 		<ShowStatusBar>true</ShowStatusBar>
 		<TopMost>false</TopMost>
 	</Life>
 	<Log>
 		<FileEncodingID>1</FileEncodingID>
 		<LogLevel>2</LogLevel>
+		<PlayTime>10238.547937300005</PlayTime>
+		<PlayTimeIgnoreInterval>600</PlayTimeIgnoreInterval>
 		<SaveErrorReport>true</SaveErrorReport>
 		<SaveLogFlag>true</SaveLogFlag>
 		<ShowSpoiler>true</ShowSpoiler>
@@ -521,8 +524,8 @@ body {
 			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
 		</SubFont>
 	</UI>
-	<Version>2.4.3</Version>
-	<VersionUpdateTime>2016/10/05 21:00:00</VersionUpdateTime>
+	<Version>2.4.4</Version>
+	<VersionUpdateTime>2016/10/22 01:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
