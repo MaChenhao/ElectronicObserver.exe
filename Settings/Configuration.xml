@@ -253,7 +253,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,404</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,425</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
@@ -275,14 +275,14 @@ body {
 		<ClockFormat>0</ClockFormat>
 		<ConfirmOnClosing>true</ConfirmOnClosing>
 		<LayoutFilePath>Settings\WindowLayout.zip</LayoutFilePath>
-		<LockLayout>false</LockLayout>
+		<LockLayout>true</LockLayout>
 		<ShowStatusBar>true</ShowStatusBar>
 		<TopMost>false</TopMost>
 	</Life>
 	<Log>
 		<FileEncodingID>1</FileEncodingID>
 		<LogLevel>2</LogLevel>
-		<PlayTime>18668.722190099994</PlayTime>
+		<PlayTime>79371.805647399626</PlayTime>
 		<PlayTimeIgnoreInterval>600</PlayTimeIgnoreInterval>
 		<SaveErrorReport>true</SaveErrorReport>
 		<SaveLogFlag>true</SaveLogFlag>
