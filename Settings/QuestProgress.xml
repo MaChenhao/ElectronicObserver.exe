@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuestProgress xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ElectronicObserver.Data.Quest">
-	<LastUpdateTime>2016-11-07T13:27:04.6596926+08:00</LastUpdateTime>
+	<LastUpdateTime>2016-11-07T13:35:08.9789422+08:00</LastUpdateTime>
 	<SerializedProgresses>
 		<ProgressData i:type="ProgressPractice">
 			<Progress>0</Progress>
@@ -102,14 +102,6 @@
 				<d4p1:int>37</d4p1:int>
 				<d4p1:int>38</d4p1:int>
 			</TargetArea>
-		</ProgressData>
-		<ProgressData i:type="ProgressSupply">
-			<Progress>0</Progress>
-			<ProgressMax>15</ProgressMax>
-			<QuestID>504</QuestID>
-			<QuestType>1</QuestType>
-			<SharedCounterShift>0</SharedCounterShift>
-			<TemporaryProgress>0</TemporaryProgress>
 		</ProgressData>
 	</SerializedProgresses>
 </QuestProgress>
