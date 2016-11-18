@@ -253,7 +253,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,406</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,427</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
@@ -282,7 +282,7 @@ body {
 	<Log>
 		<FileEncodingID>1</FileEncodingID>
 		<LogLevel>2</LogLevel>
-		<PlayTime>247459.42926319805</PlayTime>
+		<PlayTime>296575.4321054999</PlayTime>
 		<PlayTimeIgnoreInterval>600</PlayTimeIgnoreInterval>
 		<SaveErrorReport>true</SaveErrorReport>
 		<SaveLogFlag>true</SaveLogFlag>
