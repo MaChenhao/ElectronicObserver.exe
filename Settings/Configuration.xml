@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>1</LastVolume>
+		<LastVolume>0.5</LastVolume>
 		<PowerEngagementForm>2</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -185,6 +185,7 @@
 		<ShowShipName>true</ShowShipName>
 	</FormArsenal>
 	<FormBattle>
+		<HideDuringBattle>false</HideDuringBattle>
 		<IsScrollable>false</IsScrollable>
 	</FormBattle>
 	<FormBrowser>
@@ -253,7 +254,7 @@ body {
 			<d3p1:SerializedList>True,True,True,True,True</d3p1:SerializedList>
 		</ColumnFilter>
 		<ColumnWidth xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedList>24,26,40,143,427</d3p1:SerializedList>
+			<d3p1:SerializedList>24,26,40,143,425</d3p1:SerializedList>
 		</ColumnWidth>
 		<ProgressAutoSaving>1</ProgressAutoSaving>
 		<ShowDaily>true</ShowDaily>
@@ -282,7 +283,7 @@ body {
 	<Log>
 		<FileEncodingID>1</FileEncodingID>
 		<LogLevel>2</LogLevel>
-		<PlayTime>328517.56546729914</PlayTime>
+		<PlayTime>328847.53017249919</PlayTime>
 		<PlayTimeIgnoreInterval>600</PlayTimeIgnoreInterval>
 		<SaveErrorReport>true</SaveErrorReport>
 		<SaveLogFlag>true</SaveLogFlag>
@@ -517,70 +518,15 @@ body {
 				<d3p1:SerializedColor>FF888888</d3p1:SerializedColor>
 			</d3p1:SerializableColor>
 		</BarColorScheme>
-		<JapFont xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 12px</d3p1:SerializeFontAttribute>
-		</JapFont>
-		<JapFont2 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
-		</JapFont2>
 		<MainFont xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 12px</d3p1:SerializeFontAttribute>
 		</MainFont>
-		<SolarizedBase0 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF839496</d3p1:SerializedColor>
-		</SolarizedBase0>
-		<SolarizedBase00 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF657B83</d3p1:SerializedColor>
-		</SolarizedBase00>
-		<SolarizedBase01 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF586E75</d3p1:SerializedColor>
-		</SolarizedBase01>
-		<SolarizedBase02 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF073642</d3p1:SerializedColor>
-		</SolarizedBase02>
-		<SolarizedBase03 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF002B36</d3p1:SerializedColor>
-		</SolarizedBase03>
-		<SolarizedBase1 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF93A1A1</d3p1:SerializedColor>
-		</SolarizedBase1>
-		<SolarizedBase2 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFEEE8D5</d3p1:SerializedColor>
-		</SolarizedBase2>
-		<SolarizedBase3 xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFFDF6E3</d3p1:SerializedColor>
-		</SolarizedBase3>
-		<SolarizedBlue xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF268BD2</d3p1:SerializedColor>
-		</SolarizedBlue>
-		<SolarizedCyan xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF2AA198</d3p1:SerializedColor>
-		</SolarizedCyan>
-		<SolarizedGreen xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF859900</d3p1:SerializedColor>
-		</SolarizedGreen>
-		<SolarizedMagenta xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFD33682</d3p1:SerializedColor>
-		</SolarizedMagenta>
-		<SolarizedOrange xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFCB4B16</d3p1:SerializedColor>
-		</SolarizedOrange>
-		<SolarizedRed xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFDC322F</d3p1:SerializedColor>
-		</SolarizedRed>
-		<SolarizedViolet xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FF6C71C4</d3p1:SerializedColor>
-		</SolarizedViolet>
-		<SolarizedYellow xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
-			<d3p1:SerializedColor>FFB58900</d3p1:SerializedColor>
-		</SolarizedYellow>
 		<SubFont xmlns:d3p1="http://schemas.datacontract.org/2004/07/ElectronicObserver.Utility.Storage">
 			<d3p1:SerializeFontAttribute>Microsoft Sans Serif, 10px</d3p1:SerializeFontAttribute>
 		</SubFont>
-		<ThemeID>1</ThemeID>
 	</UI>
-	<Version>2.4.4.1</Version>
-	<VersionUpdateTime>2016/10/29 21:43:26</VersionUpdateTime>
+	<Version>2.4.5.1</Version>
+	<VersionUpdateTime>2016/11/20 05:00:00</VersionUpdateTime>
 	<Whitecap>
 		<AliveRule>12</AliveRule>
 		<BirthRule>8</BirthRule>
