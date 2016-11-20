@@ -169,7 +169,7 @@
 	<Control>
 		<ConditionBorder>46</ConditionBorder>
 		<LastIsMute>false</LastIsMute>
-		<LastVolume>0.5</LastVolume>
+		<LastVolume>1</LastVolume>
 		<PowerEngagementForm>2</PowerEngagementForm>
 		<RecordAutoSaving>1</RecordAutoSaving>
 		<UseSystemVolume>false</UseSystemVolume>
@@ -283,7 +283,7 @@ body {
 	<Log>
 		<FileEncodingID>1</FileEncodingID>
 		<LogLevel>2</LogLevel>
-		<PlayTime>328847.53017249919</PlayTime>
+		<PlayTime>344668.82810919842</PlayTime>
 		<PlayTimeIgnoreInterval>600</PlayTimeIgnoreInterval>
 		<SaveErrorReport>true</SaveErrorReport>
 		<SaveLogFlag>true</SaveLogFlag>
